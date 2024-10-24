@@ -68,7 +68,7 @@ class BX:
                     "LAST_NAME",
                     "SECOND_NAME",
                     "PHONE",
-                    "UF_CRM_1726651117840"
+                    "UF_CRM_1729781383"
                     ]
             }
         )
